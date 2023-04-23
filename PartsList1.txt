@@ -1,0 +1,4 @@
+Fins:123.0
+Wetsuit:500.99
+Mask:59.99
+Speargun:127.99999999

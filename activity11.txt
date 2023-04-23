@@ -1,0 +1,10 @@
+sea:mar
+dive:bucear
+beach:playa
+swim:nadar
+grouper:cabrilla
+snapper:pargo
+boat:barco
+shark:tiburon
+whale:ballena
+clam:almeja

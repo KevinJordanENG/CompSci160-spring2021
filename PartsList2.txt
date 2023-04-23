@@ -1,0 +1,7 @@
+Nut:24.0
+Hex:28.0
+Cam:89.99
+Harness:90.0
+Rope:200.99
+Climbing Shoes:119.999999
+Carabiner:6.99999
